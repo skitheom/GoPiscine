@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/skitheom/ft"
+	"piscine"
 )
 
 func main() {
-	ft.PrintRune('A')
+	piscine.PrintAlphabet()
 }

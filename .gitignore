@@ -1,0 +1,73 @@
+# Go build artifacts
+/bin/
+/pkg/
+/out/
+
+# Vendor directory
+/vendor/
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build outputs
+*.test
+*.out
+
+# Coverage files
+*.cover
+*.cov
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Dependency directories
+node_modules/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# GoLand IDE files
+/.idea/
+/*.iml
+
+# JetBrains Rider
+/.idea/
+/*.sln.iml
+
+# Emacs
+*~
+\#*\#
+
+# Eclipse
+.project
+.classpath
+
+# IntelliJ
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Other backups
+*.bak
+*.orig
+*.tmp
+*.swp
